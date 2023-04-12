@@ -1,3 +1,3 @@
 This directory houses all drawings.
 
-Note! The renders in the drawings/ directory may not show up well. 
+NOTE: All drawings may render weirdly on GitHub. Open them in the [drawings.net app](https://app.diagrams.net/) for better visualization.
